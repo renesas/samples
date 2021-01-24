@@ -1,3 +1,13 @@
+--- 
+# Renesas comments
+* This reposiory wiki has:
+  * some information about Renesas specific tools.
+  * some other experimental projects for example:
+    * GR-ROSE (RX65N)
+    * etc
+--- 
+# Microfost reference
+--- 
 # Azure RTOS - Additional samples
 
 This repository hosts additional samples for Azure RTOS.
